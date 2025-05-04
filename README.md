@@ -278,7 +278,7 @@ pip
 ```
 
 
-install -r requirements.txt
+Necessary libraries will be installed at initialization when running the notebook.
 
 ```
 ```
