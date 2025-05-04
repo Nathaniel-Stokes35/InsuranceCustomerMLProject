@@ -282,5 +282,3 @@ Necessary libraries will be installed at initialization when running the noteboo
 
 ```
 ```
-
-You can now easily copy this markdown content into your file!
